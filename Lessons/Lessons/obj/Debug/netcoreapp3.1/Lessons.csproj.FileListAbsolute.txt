@@ -4,7 +4,6 @@ C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\Lessons\bin\
 C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\Lessons\bin\Debug\netcoreapp3.1\Lessons.runtimeconfig.dev.json
 C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\Lessons\bin\Debug\netcoreapp3.1\Lessons.dll
 C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\Lessons\bin\Debug\netcoreapp3.1\Lessons.pdb
-C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\Lessons\obj\Debug\netcoreapp3.1\Lessons.csproj.AssemblyReference.cache
 C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\Lessons\obj\Debug\netcoreapp3.1\Lessons.AssemblyInfoInputs.cache
 C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\Lessons\obj\Debug\netcoreapp3.1\Lessons.AssemblyInfo.cs
 C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\Lessons\obj\Debug\netcoreapp3.1\Lessons.csproj.CoreCompileInputs.cache

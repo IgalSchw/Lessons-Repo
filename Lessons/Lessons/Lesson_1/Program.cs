@@ -6,7 +6,17 @@ namespace Lessons
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            string UserName = string.Empty;
+            string dtToday = DateTime.Now.ToShortDateString();
+
+            Console.WriteLine("Please enter your user name:");
+            UserName = Console.ReadLine();
+            
+            Console.WriteLine("Hello, {0} , today is {1}", UserName, dtToday);
+
+
+            Console.ReadKey();
         }
     }
 }
