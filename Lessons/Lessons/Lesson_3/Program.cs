@@ -4,59 +4,59 @@ using System.Text;
 
 namespace Lessons.Lesson_3
 {
-    class Program
-    {
-        const int N = 3;
-        const int M = 3;
+    //class Program
+    //{
+    //    const int N = 3;
+    //    const int M = 3;
 
 
-        /* 1 */
-        static void Main(string[] args)
-        {
-            int[,] TwoDimArray = new int[N, M];
+    //    /* 1 */
+    //    static void Main(string[] args)
+    //    {
+    //        int[,] TwoDimArray = new int[N, M];
 
-            Console.WriteLine($"Please enter values {N} X {M} array:");
+    //        Console.WriteLine($"Please enter values {N} X {M} array:");
 
-            for (int i = 0; i < N; i++)
-            {
-                for (int j = 0; j < M; j++)
-                {
-                    int val = 0;
+    //        for (int i = 0; i < N; i++)
+    //        {
+    //            for (int j = 0; j < M; j++)
+    //            {
+    //                int val = 0;
 
-                    try
-                    {
-                        val = Convert.ToInt32(Console.ReadLine());
-                    }
-                    catch (Exception ex)
+    //                try
+    //                {
+    //                    val = Convert.ToInt32(Console.ReadLine());
+    //                }
+    //                catch (Exception ex)
 
-                    {
-                        Console.WriteLine("Please try agian!");
-                        j--;
-                        continue;
-                    }
+    //                {
+    //                    Console.WriteLine("Please try agian!");
+    //                    j--;
+    //                    continue;
+    //                }
 
-                    TwoDimArray[i, j] = val;
-                }
-            }
+    //                TwoDimArray[i, j] = val;
+    //            }
+    //        }
 
-            Console.WriteLine("Diagonal of the array:");
+    //        Console.WriteLine("Diagonal of the array:");
 
-            for (int i = 0; i < N; i++)
-            {
-                for (int j = 0; j < M; j++)
-                {
-                    if (i == j)
-                    {
-                        Console.Write(TwoDimArray[i, j]);
-                    }
-                    else
-                    {
-                        Console.Write("  ");
-                    }
-                }
-                Console.WriteLine();
-            }
-        }
+    //        for (int i = 0; i < N; i++)
+    //        {
+    //            for (int j = 0; j < M; j++)
+    //            {
+    //                if (i == j)
+    //                {
+    //                    Console.Write(TwoDimArray[i, j]);
+    //                }
+    //                else
+    //                {
+    //                    Console.Write("  ");
+    //                }
+    //            }
+    //            Console.WriteLine();
+    //        }
+    //    }
 
 
 
@@ -156,6 +156,6 @@ namespace Lessons.Lesson_3
 
         //}
 
+    //}
 
-    }
 }
