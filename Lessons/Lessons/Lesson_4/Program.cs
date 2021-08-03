@@ -10,6 +10,7 @@ namespace Lessons
     {
         static void Main(string[] args)
         {
+
             // 1.
             string[,] arrFLM = new string[3, 3] {
             { "Eli", "Tzuri", "Menahomovich" },
