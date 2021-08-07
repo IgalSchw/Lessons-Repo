@@ -74,8 +74,6 @@ namespace Lessons
 
             WriteInLog("End  " + DateTime.Now.ToString());
 
-
-
             // delete files
             //DeleteTxtFile();
             //DeleteStartupFile();
