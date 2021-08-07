@@ -10,3 +10,4 @@ C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\Lessons\obj\
 C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\Lessons\obj\Debug\netcoreapp3.1\Lessons.dll
 C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\Lessons\obj\Debug\netcoreapp3.1\Lessons.pdb
 C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\Lessons\obj\Debug\netcoreapp3.1\Lessons.genruntimeconfig.cache
+C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\Lessons\obj\Debug\netcoreapp3.1\Lessons.csproj.AssemblyReference.cache
