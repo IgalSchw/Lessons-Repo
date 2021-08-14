@@ -12,7 +12,5 @@ namespace Lessons.Lesson_6
         {
            this.msg = msg;
         }
-
-        
     }
 }

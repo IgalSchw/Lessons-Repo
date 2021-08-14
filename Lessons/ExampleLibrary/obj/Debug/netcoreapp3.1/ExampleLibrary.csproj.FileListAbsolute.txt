@@ -1,0 +1,9 @@
+C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\ExampleLibrary\bin\Debug\netcoreapp3.1\ExampleLibrary.deps.json
+C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\ExampleLibrary\bin\Debug\netcoreapp3.1\ExampleLibrary.dll
+C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\ExampleLibrary\bin\Debug\netcoreapp3.1\ExampleLibrary.pdb
+C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\ExampleLibrary\obj\Debug\netcoreapp3.1\ExampleLibrary.AssemblyInfoInputs.cache
+C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\ExampleLibrary\obj\Debug\netcoreapp3.1\ExampleLibrary.AssemblyInfo.cs
+C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\ExampleLibrary\obj\Debug\netcoreapp3.1\ExampleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\ExampleLibrary\obj\Debug\netcoreapp3.1\ExampleLibrary.dll
+C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\ExampleLibrary\obj\Debug\netcoreapp3.1\ExampleLibrary.pdb
+C:\Users\Igal\Desktop\GeekBrains C# Faculty\DZ\Lessons-Repo\Lessons\ExampleLibrary\obj\Debug\netcoreapp3.1\ExampleLibrary.csproj.AssemblyReference.cache

@@ -7,6 +7,7 @@ using System.Linq;
 
 namespace Lessons
 {
+    /*
     class Program
     {        
         static void Main(string[] args)
@@ -101,4 +102,5 @@ namespace Lessons
             return sum;
         }
     }
+    */
  }
