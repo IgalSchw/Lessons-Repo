@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Lessons/1.0.0": {
-        "dependencies": {
-          "ExampleLibrary": "1.0.0"
-        },
-        "runtime": {
-          "Lessons.dll": {}
-        }
-      },
       "ExampleLibrary/1.0.0": {
         "runtime": {
           "ExampleLibrary.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "Lessons/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "ExampleLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
