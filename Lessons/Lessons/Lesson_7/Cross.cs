@@ -12,8 +12,8 @@ namespace Lessons.Lesson_7
         //const int SIZE_X = 4;
         //const int SIZE_Y = 4;
 
-        const int SIZE_X = 5;
-        const int SIZE_Y = 5;
+        const int SIZE_X = 4;
+        const int SIZE_Y = 4;
 
         static char[,] field = new char[SIZE_Y, SIZE_X];
 
